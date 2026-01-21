@@ -22,3 +22,13 @@ and triggers alerts via Android, Firebase, and emergency communication.
 - Commercial vehicles
 - Long-distance drivers
 - Smart transportation systems
+
+## Android App Setup
+
+1. Download or clone repository
+2. Unzip DriverDrowsinessAlert.zip
+3. Open Android Studio
+4. Click "Open" → select the project folder
+5. Sync Gradle
+6. Add google_maps_api_key
+7. Run on real device
