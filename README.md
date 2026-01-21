@@ -7,7 +7,6 @@ and triggers alerts via Android, Firebase, and emergency communication.
 
 ## Features
 - Eye Aspect Ratio (EAR) based drowsiness detection
-- Yawn and head-tilt analysis
 - Firebase real-time synchronization
 - Android foreground service alarm
 - Auto emergency call & SMS with GPS
