@@ -24,7 +24,6 @@ and triggers alerts via Android, Firebase, and emergency communication.
 - Smart transportation systems
 
 ## Android App Setup
-
 1. Download or clone repository
 2. Unzip DriverDrowsinessAlert.zip
 3. Open Android Studio
